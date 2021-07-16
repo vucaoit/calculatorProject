@@ -1,6 +1,7 @@
 # calculator
 
 a app calculate math
+by Caodev
 
 ## Getting Started
 
